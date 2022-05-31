@@ -1,5 +1,6 @@
 <xml>
-	<p1>"Nataly"</p1>
-	<p2>"Lesniak"</p2>
-	<p3>"35"</p3>
-	<p4>"1000"</p4>
+	<Name>"Nataly"</Name>
+	<Surname>"Lesniak"</Surname>
+	<Age>"35"</Age>
+	<Salary>"1000"</Salary>
+
